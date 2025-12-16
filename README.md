@@ -52,4 +52,3 @@ co2-gdp-regression-analysis/
 │── data/
 │   └── final_dataset.xlsx
 │── README.md
-│── .gitignore
