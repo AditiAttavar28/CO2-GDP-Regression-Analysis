@@ -43,3 +43,13 @@ Datasets were merged by **Country** and **Year** and cleaned to avoid multicolli
 ---
 
 ## Files in This Repository
+```text
+co2-gdp-regression-analysis/
+│── notebooks/
+│   └── co2_gdp_regression_analysis.ipynb
+│── docs/
+│   └── co2_gdp_regression_analysis_report.pdf
+│── data/
+│   └── final_dataset.xlsx
+│── README.md
+│── .gitignore
