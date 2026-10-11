@@ -1,0 +1,10 @@
+# Package versions from the original project environment were not recorded.
+pandas
+numpy
+scikit-learn
+scipy
+statsmodels
+matplotlib
+seaborn
+openpyxl
+jupyter
